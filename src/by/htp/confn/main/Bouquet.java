@@ -3,7 +3,7 @@ package by.htp.confn.main;
 import java.util.ArrayList;
 
 
-//в интерфейсы пока не лез, но, насколько я помню, лучше бы было сделать интерфейс с описанием методов и потом public class Bouquet implemets IBouquet...
+//РІ РёРЅС‚РµСЂС„РµР№СЃС‹ РЅРµ Р»РµР· РїРѕРєР°, РЅРѕ, РЅР°СЃРєРѕР»СЊРєРѕ СЏ РїРѕРјРЅСЋ, Р»СѓС‡С€Рµ Р±С‹Р»Рѕ Р±С‹ СЃРЅР°С‡Р°Р»Рѕ РѕРїРёСЃР°С‚СЊ РІСЃРµ РјРµС‚РѕРґС‹ РІ РёРЅС‚РµСЂС„РµР№СЃРµ (РЅР°РїСЂРёРјРµСЂ, IBouquet), Р° РїРѕС‚РѕРј СѓР¶Рµ public class Bouquet implemets IBouquet...
 public class Bouquet {
 
 	private ArrayList<Flower> bouquet = new ArrayList<>();
